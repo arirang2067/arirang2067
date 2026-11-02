@@ -1,0 +1,28 @@
+Generation mode: built-in image_gen tool; referenced official ALICE 4 images; no CLI fallback.
+Final assets: alice-hero-light.png and alice-hero-dark.png.
+Final light corner edit: Use case: precise-object-edit. Make only a tiny border/corner correction to this finished GitHub banner: remove the black triangular pixels OUTSIDE the rounded panel in all four image corners, by extending the same pale warm cream background all the way to the image edges. The output must be a full-bleed rectangular banner with no rounded clipping and no black outside-corner marks. Keep the entire banner interior, robot, three exact lines of text, color palette, lighting, composition and dimensions unchanged. Do not add or remove anything else.
+Final dark corner edit: Use case: precise-object-edit. Make only a tiny border/corner correction to this finished GitHub banner: remove the black triangular pixels OUTSIDE the rounded panel in all four image corners, by extending the same deep warm ash gray background all the way to the image edges. The output must be a full-bleed rectangular banner with no rounded clipping and no black outside-corner marks. Keep the entire banner interior, robot, three exact lines of text, color palette, lighting, composition and dimensions unchanged. Do not add or remove anything else.
+Official shape references:
+https://www.arobot4all.com/ALICE4
+https://cdn.imweb.me/thumbnail/20251107/87d54f312567c.png
+https://cdn.imweb.me/upload/S2021030568bd4c876303f/d2e1f599d6182.png
+
+INITIAL LIGHT BANNER PROMPT:
+Use case: stylized-concept.
+Asset type: finished wide hero banner for Chris Chun's personal GitHub profile README, landscape aspect ratio about 3:1, roughly 1536 by 512. This is a project asset, not a webpage screenshot.
+Input images: both attached images are official ALICE 4 robot shape references, not edit targets. Keep the robot recognizably ALICE 4.
+Primary request: create an elegant, contemporary robotics-engineer profile banner with beautifully art-directed semi-realistic 3D product rendering and crisp editorial typography.
+Composition: left 58% holds typography with generous uncluttered space; right 42% contains one ALICE 4 robot, full body visible including antennas and feet, in a natural poised standing / subtle stepping stance, slight three-quarter view. Make it much richer and more recognizable than a stick-figure diagram. Rounded wide panel, subtle technical orbit lines and a very restrained dot grid around the robot, no dense HUD clutter.
+Robot identity to preserve from references: rounded white helmet, broad black rounded faceplate with TWO DISTINCT ROUND CAMERA LENSES, two short black vertical side antennas, white pear-shaped / trapezoidal chest with TWO vertical silver chest handles, white shoulder shells, visible dark mechanical waist, black exposed parallel linear actuators in legs with white curved leg frame segments, slim mechanical ankles, flat black feet, articulated hands. White and graphite armor, no orange repaint of the whole robot. No copied or invented company logos.
+Color palette: warm cheese-tabby orange #F2A34F and soft cream #FFF4DF are the main colors, evoking Aeyongi's warmth. Background cream/off-white with a warm pale-orange circular light behind the robot. Ash gray #252A27 text and mechanisms. AeiROBOT official Gold #F4C353 and Green #95C11E only as small refined accent strokes.
+Typography EXACTLY, and only these three lines on the left:
+"ROBOTICS / CONTROL / LEARNING" as a small spaced uppercase eyebrow.
+"Chris Chun." as the large bold main heading.
+"Building systems that move." as the smaller subtitle.
+No additional text, no badges, no statistics, no watermark, no weapons, no human, no generic smiling screen-face. Ensure high contrast and a polished premium robotics studio aesthetic, with believable actuator details and a friendly purposeful ALICE silhouette.
+
+FINAL LIGHT BANNER EDIT PROMPT:
+Use case: precise-object-edit. Edit this finished GitHub banner. Make exactly one localized correction: REMOVE the tiny green company logo / A-shaped mark and its tiny text from the robot's chest, leaving a clean plain white chest surface between the two silver vertical handles. Also remove the small "ALICE" lettering on the chest. Preserve all main banner text verbatim, the robot's exact ALICE 4 shape, the two round camera eyes, antennas, chest handles, mechanical legs, entire composition, cream/orange palette, subtle gold/green orbital accents, and dimensions. Do not add any new logos or text. Keep everything else the same.
+
+DARK BANNER EDIT PROMPT:
+Use case: lighting-weather / theme variant. Edit this finished light-theme GitHub profile banner into its DARK-THEME companion. Preserve the exact layout, dimensions, typography, all text verbatim, the exact ALICE 4 robot silhouette and mechanical details, the two round camera lenses, antennas, two silver chest handles, and the plain clean chest without any logo or lettering. Change only the theme and lighting: background should be deep warm ash gray #252A27, headline and subtitle soft cream #FFF4DF, orange full stop #F2A34F; keep the large warm orange circular glow behind the robot but make it a sophisticated dim amber backlight. Preserve robot white armor and graphite mechanics with beautiful warm rim lighting, bright enough to read clearly on the dark background. Keep the tiny Gold #F4C353 and Green #95C11E accent strokes and technical orbit lines. The dominant feeling is warm orange and cream against ash gray, never cyan or purple. No new elements, no new text, no logos, no changes to the full-body framing.

@@ -1,18 +1,26 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
-  <img alt="Chris Chun — Robotics, Control &amp; Learning" src="assets/profile-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/alice-hero-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/alice-hero-light.png">
+  <img alt="Chris Chun — 앨리스 4를 모티프로 한 Robotics, Control &amp; Learning 배너" src="assets/alice-hero-light.png" width="100%">
 </picture>
 
 <p align="center">
-  <strong>로봇이 더 자연스럽게 움직이도록.</strong><br>
-  Robot Control · Humanoid Locomotion · Reinforcement Learning
+  <strong>로봇이 더 자연스럽게 움직이도록.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=23&amp;duration=2400&amp;pause=1600&amp;color=F2A34F&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=45&amp;lines=Robot+Control+Systems;Humanoid+Locomotion;Reinforcement+Learning">
+      <img alt="Robot Control Systems · Humanoid Locomotion · Reinforcement Learning" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=23&amp;duration=2400&amp;pause=1600&amp;color=CA7633&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=45&amp;lines=Robot+Control+Systems;Humanoid+Locomotion;Reinforcement+Learning" width="520">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
   <a href="#research">Research</a> &nbsp;·&nbsp;
-  <a href="#selected-work">Selected Work</a> &nbsp;·&nbsp;
   <a href="#toolbox">Toolbox</a> &nbsp;·&nbsp;
+  <a href="#activity">Activity</a> &nbsp;·&nbsp;
   <a href="#connect">Connect</a>
 </p>
 
@@ -24,44 +32,24 @@
 - **Humanoid Locomotion** — 균형을 잡고 자연스럽게 걷는 이족보행
 - **Reinforcement Learning** — 경험을 통해 움직임을 학습하는 로봇
 
-## Selected Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/arirang2067/tutorial_mobile_robot">Mobile Robot ↗</a></h3>
-      <p>ROS 2 기반 모바일 로봇 제어와 시뮬레이션 튜토리얼.</p>
-      <p><code>ROS 2</code> <code>C++</code> <code>Kinematics</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/arirang2067/HERoEHS-ALICE-Gazebo-Example">ALICE · Gazebo ↗</a></h3>
-      <p>휴머노이드 ALICE의 Gazebo 시뮬레이션 예제.</p>
-      <p><code>Humanoid</code> <code>Gazebo</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/arirang2067/behavior_tree_tutorial">Behavior Tree ↗</a></h3>
-      <p>ROS 환경에서 시작하는 행동 트리 튜토리얼.</p>
-      <p><code>ROS</code> <code>Behavior Tree</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/arirang2067/ros_qt_tutorial">ROS × Qt ↗</a></h3>
-      <p>ROS와 Qt를 연결하는 GUI 튜토리얼.</p>
-      <p><code>ROS</code> <code>Qt</code> <code>C++</code></p>
-    </td>
-  </tr>
-</table>
-
-[공개 저장소 더 보기 →](https://github.com/arirang2067?tab=repositories)
-
 ## Toolbox
 
-| Area | Tools |
-| :--- | :--- |
-| Languages | `C` · `C++` · `Python` |
-| Robotics | `ROS` · <code>ROS&nbsp;2</code> · `Gazebo` |
-| Development | `Qt` · `Linux` · `Git` · `GitHub` |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cc%2Cpython%2Cros%2Cqt%2Clinux%2Cgit%2Ccmake&amp;theme=dark&amp;perline=8">
+      <img alt="C++, C, Python, ROS, Qt, Linux, Git, CMake" src="https://skillicons.dev/icons?i=cpp%2Cc%2Cpython%2Cros%2Cqt%2Clinux%2Cgit%2Ccmake&amp;theme=light&amp;perline=8" width="480">
+    </picture>
+  </a>
+</p>
+
+<p align="center"><sub>Control in C++ · Learning in Python · Robotics with ROS &amp; ROS 2</sub></p>
+
+## Activity
+
+<a href="https://github.com/arirang2067#year-list-container">
+  <img alt="GitHub 프로필에 공개된 최근 1년 기여 활동" src="https://ghchart.rshah.org/F2A34F/arirang2067" width="100%">
+</a>
 
 ## Connect
 
